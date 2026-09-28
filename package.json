@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/indexprot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Index encode/decode helpers for prot payloads in pipelines.",
+  "bin": {
+    "indexprot": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/indexprot.git"
+  },
+  "homepage": "https://theworker02.github.io/indexprot/",
+  "keywords": [
+    "index",
+    "prot",
+    "encode",
+    "cli",
+    "toolkit"
+  ]
+}
